@@ -1,0 +1,4 @@
+TalkHub
+=======
+
+Rails Intermidiate class
